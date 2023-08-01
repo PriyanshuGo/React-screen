@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.navbar {
+    width: 1110px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    flex: 1;
+}
+.btn {
+    border-radius: 100px;
+    background: #3C4EF3;
+    width: 130px;
+    height: 42px;
+    flex-shrink: 0;
+    color: white;
+    border: none;
+}
+
+.content {
+    color: #1E255E;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.con{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.content{
+    padding: 20px;
+}
