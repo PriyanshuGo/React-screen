@@ -15,12 +15,8 @@ function Boy() {
               A smart mobile application you can control your business needs
             </p>
           </div>
-          {/* <div className="btnclass">
-          <button className="btn1"><p className="btntext">Download App</p></button>
-        <button className="btn2"><p className="btntext">Download App</p></button>
-          </div> */}
           <div className="foot">
-            <button >
+            <button>
               <img src={apple} className="space" />
               Download App
             </button>
@@ -33,7 +29,6 @@ function Boy() {
         <div className="mobile">
           <img src={mobile} width={754} height={502} />
         </div>
-     
       </div>
     </>
   );
