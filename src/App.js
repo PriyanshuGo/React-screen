@@ -5,8 +5,7 @@ import Boy from "./component/Boy";
 function App() {
   return (
     <div>
-      <Head />
-      <Boy />
+      
     </div>
   );
 }
